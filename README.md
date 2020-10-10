@@ -23,7 +23,7 @@
 - 備考_2
 - SUW語数
 
-## Author
+## Authors
 
 - 加藤祥
 - 森山奈々美
@@ -31,6 +31,9 @@
 
 ## Reference 
 加藤祥・森山奈々美・浅原正幸 (2020) 『現代日本語書き言葉均衡コーパス』新聞サブコーパスに対する新聞記事情報の付与, 『日本語学会2020年度秋季大会予稿集』.
+
+## Acknowledgements
+本データは科研費基盤研究(C) 18K00634 「文体分析を目的としたコーパスの文書情報拡張及びその利用」　https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K00634/　および国立国語研究所コーパス開発センター共同研究プロジェクトの成果物です。
 
 ## License
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
